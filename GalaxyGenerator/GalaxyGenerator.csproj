@@ -45,6 +45,7 @@
     <Compile Include="Barycenter.cs" />
     <Compile Include="IMassObject.cs" />
     <Compile Include="JovianPlanet.cs" />
+    <Compile Include="Orbit.cs" />
     <Compile Include="Planet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
