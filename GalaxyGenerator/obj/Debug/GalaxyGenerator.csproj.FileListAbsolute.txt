@@ -1,0 +1,7 @@
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\bin\Debug\GalaxyGenerator.exe.config
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\bin\Debug\GalaxyGenerator.exe
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\bin\Debug\GalaxyGenerator.pdb
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\obj\Debug\GalaxyGenerator.csprojResolveAssemblyReference.cache
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\obj\Debug\GalaxyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\obj\Debug\GalaxyGenerator.exe
+C:\Users\lodahl\source\repos\GalaxyGenerator\GalaxyGenerator\obj\Debug\GalaxyGenerator.pdb
